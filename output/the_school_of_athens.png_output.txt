@@ -1,0 +1,7 @@
+Name of Image: the_school_of_athens.png
+Noise Ratio: 0.600
+Time to restore: 30.064s
+SSIM Similarity: 0.734
+Cosine Similarity: 0.991
+Error Restore/Origin: 69.103
+Error Noise/Origin: 391.338

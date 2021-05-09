@@ -1,0 +1,7 @@
+Name of Image: mona_lisa.png
+Noise Ratio: 0.600
+Time to restore: 29.863s
+SSIM Similarity: 0.749
+Cosine Similarity: 0.995
+Error Restore/Origin: 33.087
+Error Noise/Origin: 253.866

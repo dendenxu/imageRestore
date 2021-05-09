@@ -1,0 +1,7 @@
+Name of Image: xihu.png
+Noise Ratio: 0.600
+Time to restore: 29.469s
+SSIM Similarity: 0.953
+Cosine Similarity: 0.999
+Error Restore/Origin: 25.755
+Error Noise/Origin: 407.886

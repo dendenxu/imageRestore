@@ -1,0 +1,7 @@
+Name of Image: eve_cat.jpg
+Noise Ratio: 0.600
+Time to restore: 29.371s
+SSIM Similarity: 0.899
+Cosine Similarity: 0.998
+Error Restore/Origin: 25.322
+Error Noise/Origin: 298.023

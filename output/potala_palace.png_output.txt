@@ -1,0 +1,7 @@
+Name of Image: potala_palace.png
+Noise Ratio: 0.600
+Time to restore: 28.608s
+SSIM Similarity: 0.795
+Cosine Similarity: 0.985
+Error Restore/Origin: 57.879
+Error Noise/Origin: 259.651

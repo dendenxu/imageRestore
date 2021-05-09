@@ -1,0 +1,7 @@
+Name of Image: forest.png
+Noise Ratio: 0.600
+Time to restore: 29.882s
+SSIM Similarity: 0.683
+Cosine Similarity: 0.979
+Error Restore/Origin: 66.573
+Error Noise/Origin: 252.131
